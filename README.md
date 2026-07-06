@@ -3,9 +3,9 @@
 A modern, responsive landing page for an imaginary resume builder product called **ResumeFlow**. This project was built using **HTML, CSS, and a small amount of JavaScript** as part of a frontend assignment.
 
 ## 🚀 Live Demo
+Coming soon..
 
-https://ayushthinks.github.io/resume-landing/
-
+---
 
 ## ✨ Features
 
@@ -17,8 +17,11 @@ https://ayushthinks.github.io/resume-landing/
 - Features section
 - How It Works section
 - Resume template cards
-- Testimonials
+- Testimonials section
 - FAQ section
+- Login page
+- Sign Up (Register) page
+- Navigation links between landing, login, and sign up pages
 - Footer with useful links
 - Dynamic footer year using JavaScript
 
@@ -40,48 +43,51 @@ resume-landing/
 │── style.css
 │── script.js
 │── README.md
-└── screenshots/
+│── screenshots/
+└── preview.png
 ```
 
 ---
 
 ## 📸 Preview
 
-Example:
-
-
+### Main Page
 ![ResumeFlow Preview](screenshots/preview.png)
-
-
+### Login Page
+![Login Preview](screenshots/login.png)
+### Sign up Page
+![Sign up Preview](screenshots/signup.png)
 ---
 
 ## 📱 Responsive Design
 
-The landing page is fully responsive and optimized for:
+The project is fully responsive and optimized for:
 
 - Desktop
-- Tablet
 - Mobile
 
 ---
 
 ## 📌 JavaScript
 
-A small amount of JavaScript is used to update page content dynamically using `querySelector()` and `textContent()`.
+JavaScript is used for basic DOM manipulation.
 
-Example:
+Features implemented using JavaScript:
 
 - Dynamic footer year
+- Navigation between Login and Sign Up sections
 
 ---
 
 ## 🎯 Learning Outcomes
 
 - Semantic HTML
-- Modern CSS Layout (Flexbox & Grid)
-- Responsive Web Design
 - CSS Variables
+- Flexbox
+- CSS Grid
+- Responsive Web Design
 - Component-based UI
+- Form Design
 - Basic DOM Manipulation
 
 ---
