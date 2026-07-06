@@ -3,7 +3,7 @@
 A modern, responsive landing page for an imaginary resume builder product called **ResumeFlow**. This project was built using **HTML, CSS, and a small amount of JavaScript** as part of a frontend assignment.
 
 ## 🚀 Live Demo
-Coming soon..
+[Live Demo](https://ayushthinks.github.io/resume-landing/)
 
 ---
 
