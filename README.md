@@ -4,8 +4,7 @@ A modern, responsive landing page for an imaginary resume builder product called
 
 ## 🚀 Live Demo
 
-**GitHub Pages:**  
-Add your live link here
+https://ayushthinks.github.io/resume-landing/
 
 
 ## ✨ Features
